@@ -1,0 +1,2401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2023-05-26T21:15:10.8249063-04:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>Back Wheels\MACHINE THESE\edward_wojciechowski_qty_4.pdf</FileName>
+      <SHA1>28551706DA4F5823C4C08E4F38A81275A3D171D4</SHA1>
+      <FileSize>53706</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1454458+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\MACHINE THESE\gronker_qty_4.pdf</FileName>
+      <SHA1>4D52EF2351E19B174E290ADE9860D275792C51B8</SHA1>
+      <FileSize>50446</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1489566+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\MACHINE THESE\middle_bar_qty_1.pdf</FileName>
+      <SHA1>FDF74D2D2202337CF020CE3EDF0D08A655101C73</SHA1>
+      <FileSize>52062</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1521130+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\MACHINE THESE\Tom_Rusu_qty_4.pdf</FileName>
+      <SHA1>22D5FF3BA0422E8DFFBCB4B6E289440B2E06C64E</SHA1>
+      <FileSize>52169</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1425639+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\60645K121_Ball Joint Rod End.SLDPRT</FileName>
+      <SHA1>F5C4E27FB062D5A6F31A16CC2C62783B27171E72</SHA1>
+      <FileSize>1042626</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1187057+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\6384K361_Ball Bearing.SLDPRT</FileName>
+      <SHA1>AA933FA0876D9016772711D8762D963523D64195</SHA1>
+      <FileSize>372735</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1208560+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\6527K972_Low-Carbon Steel Rectangular Tube.SLDPRT</FileName>
+      <SHA1>1FE24404E68A7B8D7094F522B2EB60BFD1601418</SHA1>
+      <FileSize>141526</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1229733+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\8415N77_Carbon Steel Turnbuckle-Style Connecting Rod.SLDPRT</FileName>
+      <SHA1>40AC8466BC6FB1D30C7C01A73AC12C5101787509</SHA1>
+      <FileSize>979031</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1251498+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\90630A165_High-Strength Steel Nylon-Insert Locknut.SLDPRT</FileName>
+      <SHA1>6C4F0B30225749AA11C2F01C245882CA0FE6A4BE</SHA1>
+      <FileSize>764580</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1281198+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\90807A116_Same-Size Thread Alloy Steel Shoulder Screw.SLDPRT</FileName>
+      <SHA1>EAA653A5EF030BC012B116ADCC5A7A3532DA22AD</SHA1>
+      <FileSize>758480</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1297040+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\91251A544_Black-Oxide Alloy Steel Socket Head Screw.SLDPRT</FileName>
+      <SHA1>5CA0C41FD7611006B9458D8C37F94391B731DFC6</SHA1>
+      <FileSize>1129714</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1326968+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\91831A029_18-8 Stainless Steel Nylon-Insert Locknut.SLDPRT</FileName>
+      <SHA1>B2F4B616056C27FFB06387BE7EE7F3803E026843</SHA1>
+      <FileSize>465217</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1346860+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\98870A120_Machine Key.SLDPRT</FileName>
+      <SHA1>3AEDBAAE2D253C26A4BED5BCAE9BEB2E0563A1CF</SHA1>
+      <FileSize>85322</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1376189+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\back_wheel_assem_spacer.SLDPRT</FileName>
+      <SHA1>8C512D38CD94ADAD76EE73596C39FC85D1D25417</SHA1>
+      <FileSize>120773</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1627444+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\back_wheel_assem_spacer.STL</FileName>
+      <SHA1>E61D6B141740C16CCAA828B9924AFB92C6D95636</SHA1>
+      <FileSize>68984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1647392+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\boi.pdf</FileName>
+      <SHA1>18414190CE44F4BB8D0562A0C130E6792BF0F84D</SHA1>
+      <FileSize>70575</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1720426+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\boi.SLDDRW</FileName>
+      <SHA1>6675F3F87858F8DCF5E77711193E680C6B9AD9CE</SHA1>
+      <FileSize>729057</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1674432+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\boi.SLDPRT</FileName>
+      <SHA1>E770F731F8BBC88E7142A267E3EECFE683ECFF08</SHA1>
+      <FileSize>715392</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1700033+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\edward_wojciechowski.SLDDRW</FileName>
+      <SHA1>1256E0B99E972AAC5A714791768E4494F04B123F</SHA1>
+      <FileSize>105446</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1753849+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\edward_wojciechowski.SLDPRT</FileName>
+      <SHA1>D5BCF9D7A1686FDD32EEE8698C76C803C4ABB378</SHA1>
+      <FileSize>92696</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1773801+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\Encoder.SLDPRT</FileName>
+      <SHA1>96D99A2A5ECD69EBA09DD4473C094E00274E92E3</SHA1>
+      <FileSize>84278</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1393699+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\encoder_mount.SLDPRT</FileName>
+      <SHA1>0BCA7B0C3BAD38E54BD1C48F4AA81B002A70922F</SHA1>
+      <FileSize>162106</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1794679+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\gronker.SLDDRW</FileName>
+      <SHA1>9C884C2632AA3FB49F011A42B75C37AC6F72F20C</SHA1>
+      <FileSize>100598</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1814633+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\gronker.SLDPRT</FileName>
+      <SHA1>9BF86B43B3A7C9B130852A95229847C85846B472</SHA1>
+      <FileSize>71261</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1840326+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\john_fulmer.SLDPRT</FileName>
+      <SHA1>1F593FF05D78143ED2443710E98DA1E113BBF367</SHA1>
+      <FileSize>183739</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1860932+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\john_fulmer.STL</FileName>
+      <SHA1>DE5C6205A6FF208563FE3E779A0C6CA78AE88AE5</SHA1>
+      <FileSize>68384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1886279+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\middle_bar.SLDDRW</FileName>
+      <SHA1>F7B7390528B6A73B772C6EDC81B8732278CDA82F</SHA1>
+      <FileSize>114208</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1909508+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\plskillme.SLDPRT</FileName>
+      <SHA1>95F6B32890A1844E8ABCDEE7C44D65D55BB9E9FF</SHA1>
+      <FileSize>76566</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1926997+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\plskillme.STL</FileName>
+      <SHA1>F4DC2596A89F2BF3B533158F2D595C9351FD9470</SHA1>
+      <FileSize>12084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1947902+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\Tom_Rusu.SLDDRW</FileName>
+      <SHA1>4D4C4817199DE68705840A448318311328EB25D0</SHA1>
+      <FileSize>123142</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1549614+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\Tom_Rusu.SLDPRT</FileName>
+      <SHA1>315FB9AC4207EDFD1E235C01554FBB4929A742C8</SHA1>
+      <FileSize>106544</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1582207+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\Wheel!.SLDPRT</FileName>
+      <SHA1>07BA53A25085B5A0DDA15A200DC1ACEE0EAA0F50</SHA1>
+      <FileSize>197018</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1602232+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back Wheels\yerrherrr.SLDASM</FileName>
+      <SHA1>A62BA5417DE05F0B52132504216833EC0384C46F</SHA1>
+      <FileSize>9316345</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2005871+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brake\bracket.SLDPRT</FileName>
+      <SHA1>F25D2FE58B0414606E01833FDA86EC9F42082C46</SHA1>
+      <FileSize>216614</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8885820+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brake\bracket.STL</FileName>
+      <SHA1>90EFC15E9EAAFBBB234F6BD0B0495D681DF87378</SHA1>
+      <FileSize>13684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8916457+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brake\bracket_back.DXF</FileName>
+      <SHA1>04AF78B81D447E3E8837B2AA0AA43B7C704A197E</SHA1>
+      <FileSize>23455</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8937823+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brake\bracket_side.DXF</FileName>
+      <SHA1>A6DE657F6F9E6CA543379613AD806C39ADD7654D</SHA1>
+      <FileSize>22321</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8959631+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brake\bracket_top.DXF</FileName>
+      <SHA1>6D99F1F771A8655A273D81C611D71C0D958CCF45</SHA1>
+      <FileSize>24691</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8979588+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>brake\magnet.SLDPRT</FileName>
+      <SHA1>85CE81C3A375588E7AA9FBE9BA118BB882AFEE99</SHA1>
+      <FileSize>68828</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.9005610+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\4416T651_Easy-to-Machine 1215 Carbon Steel.SLDDRW</FileName>
+      <SHA1>7AC874AA6751B809A419745321C290A2723228F7</SHA1>
+      <FileSize>58821</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3804221+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\4416T651_Easy-to-Machine 1215 Carbon STEERING.SLDDRW</FileName>
+      <SHA1>7812F175CFE891773FD85E702127064CE2F17527</SHA1>
+      <FileSize>52823</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3784213+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\6546K526_Multipurpose 6061 Aluminum Rectangular Tube(1).SLDDRW</FileName>
+      <SHA1>A0F4481CA31DFDB6BF3A346A1D1D918384D409C7</SHA1>
+      <FileSize>97791</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3828468+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\8982K925_Multipurpose 6061 Aluminum 90 Degree Angle.SLDDRW</FileName>
+      <SHA1>A46E514BB24B4B2321223CF8502DF652D47B065F</SHA1>
+      <FileSize>72823</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3848688+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\9001K548_Architectural 6063 Aluminum U-Channel.SLDDRW</FileName>
+      <SHA1>3831FE8920CF12E213514F132CAEDFCAE3F6B857</SHA1>
+      <FileSize>93241</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3869191+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\chassis.SLDDRW</FileName>
+      <SHA1>1BC5A28CFAD2516233130D3D89FE77A0236DDF83</SHA1>
+      <FileSize>297457</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4111499+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\chassis_hooo.pdf</FileName>
+      <SHA1>1779D91054BE4212B9A0BC5C9742DE44A3ADD213</SHA1>
+      <FileSize>111579</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4130648+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\chassis_wooooo.pdf</FileName>
+      <SHA1>18C7A67DE7FD0276342F119F0AB689A9ACD369D4</SHA1>
+      <FileSize>45601</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4178790+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\front_gps_plate_side.SLDDRW</FileName>
+      <SHA1>A08420ECFC466A30A78F8DFC9EBB814B9317EBE6</SHA1>
+      <FileSize>65205</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4209754+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\front_wheel_axle.pdf</FileName>
+      <SHA1>7A0FDA240DC6D4212AF4DFB2099589496E6A03CB</SHA1>
+      <FileSize>38967</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4250101+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\front_wheel_axle.SLDDRW</FileName>
+      <SHA1>EC95A2F765E4744DBD69731E2678CAF2971ED290</SHA1>
+      <FileSize>79198</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4225220+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\FW_SIDE_PLATES.PDF</FileName>
+      <SHA1>EE0732A239F2FD90A71CA0D95392B55BDABF8A8A</SHA1>
+      <FileSize>51915</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3889356+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\FW_SIDE_STRUTS.pdf</FileName>
+      <SHA1>CF426F672C64079D5E3F7B9E1111C281FBFE0186</SHA1>
+      <FileSize>118169</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3910803+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\GPS_BRACKET.pdf</FileName>
+      <SHA1>ABFB531543FAEC444189673530687445FCDE7C1B</SHA1>
+      <FileSize>113896</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3947302+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\GPS_bracket.SLDDRW</FileName>
+      <SHA1>B36740FCC565B1165DD59A4AB7165943A9ACDB07</SHA1>
+      <FileSize>59358</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4013632+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\GPS_bracket2.SLDDRW</FileName>
+      <SHA1>B6A57F3F7DBBB949C1B4A553DE9758304869DB57</SHA1>
+      <FileSize>62893</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4037099+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\GPS_SIDE_PLATE.pdf</FileName>
+      <SHA1>B51DF4DB434BA6AF1C7649777A711D78383C143E</SHA1>
+      <FileSize>113396</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3970504+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\side_struts.SLDDRW</FileName>
+      <SHA1>5CD09A018AE19EB185754F2A8AAFF628A989D8D5</SHA1>
+      <FileSize>90042</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4278418+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\Wheel Side Plate.SLDDRW</FileName>
+      <SHA1>B23D84D6AF5B170761CE5E5A89FA29C48D0F43B1</SHA1>
+      <FileSize>158329</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4090161+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\wheel_mount.SLDDRW</FileName>
+      <SHA1>757EE990D8B783D50A60034AABB67A325481DD36</SHA1>
+      <FileSize>101579</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4298619+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drawings\WH_MOUNT.pdf</FileName>
+      <SHA1>0DA7D70FF633FE2F760D829B829BFBD04F3741CF</SHA1>
+      <FileSize>121829</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4058292+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\converter_box\bottom_board_bottom.DXF</FileName>
+      <SHA1>A4B7C66672ED2DB17D5B0C0FC64DB876DFFDA71B</SHA1>
+      <FileSize>22618</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2505680+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\converter_box\bottom_board_top.DXF</FileName>
+      <SHA1>9BE5A5EA7BA3FEFBDB4C043CB4553AA56E730DA6</SHA1>
+      <FileSize>22628</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2526999+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\converter_box\gas.DXF</FileName>
+      <SHA1>7702A3B426FA3AA79DC03B0716C2CBF209F2C273</SHA1>
+      <FileSize>29339</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2549767+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\converter_box\sides_other_side.DXF</FileName>
+      <SHA1>E9ECBC1E54B32B389F138D0F9E431D747269F684</SHA1>
+      <FileSize>21548</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2569632+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\converter_box\sides_side.DXF</FileName>
+      <SHA1>612B5836E17B08289858B39F51ACE4BA6A3B3FD1</SHA1>
+      <FileSize>21690</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2588512+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\Battery_mounting_plate.DXF</FileName>
+      <SHA1>C493B21C13CC064ADB487EF2CA245026533D7BDA</SHA1>
+      <FileSize>25735</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2179776+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\Battery_mounting_plate_fixed.DXF</FileName>
+      <SHA1>02D5C4BEF2D48AF33D3C1ECC84EAE7BD4B378641</SHA1>
+      <FileSize>25687</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2198051+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\Battery_mounting_plate_fixed_more.DXF</FileName>
+      <SHA1>2CB7CF3B4C91D9792A3659F0BBC22D318D976E28</SHA1>
+      <FileSize>25749</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2225147+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\boxbottom.STL</FileName>
+      <SHA1>911C42A3F94051545DB9A15C8765A3FDE6D33875</SHA1>
+      <FileSize>101684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2394120+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\brake_dyn_mount1.SLDPRT</FileName>
+      <SHA1>8B1FA99F08EE0DB7BAEA53504608BCCE431C0414</SHA1>
+      <FileSize>356799</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2415641+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\brake_dyn_mount1.STL</FileName>
+      <SHA1>6718B3FE824455FFBDEEA67BC2D2358685AAA0C9</SHA1>
+      <FileSize>176984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2435598+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\brake_dyn_mount2.STL</FileName>
+      <SHA1>CA9495B79DDB06138E6D3440909EDAA16F31A8F9</SHA1>
+      <FileSize>91684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2455219+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\brake_mount.STL</FileName>
+      <SHA1>280A891B79EA59425A2D1B9662180038276E5E38</SHA1>
+      <FileSize>31084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2474473+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\dynamixel_mount.ai</FileName>
+      <SHA1>605489040BBFA164056746D05D4C7BD7ED2B00CC</SHA1>
+      <FileSize>47870</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2630419+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\dynamixel_mount.DXF</FileName>
+      <SHA1>C349FFFADE6447D72EF9EC539AE0DB9784661AC5</SHA1>
+      <FileSize>28380</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2610328+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\electronics_mounting_plate.DXF</FileName>
+      <SHA1>D00E1E0DC61C0C30112E826886B35FEF31F482EE</SHA1>
+      <FileSize>33434</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2664858+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\electronics_mounting_plate_fixed.DXF</FileName>
+      <SHA1>05ADD61FE1EF028C1B278BD5BF97CFFE6BDF8EDE</SHA1>
+      <FileSize>33209</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2689120+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\electronics_mounting_plate_fixed.SLDPRT</FileName>
+      <SHA1>33CE616DB29570217CE7DCF816429F9D922C58AB</SHA1>
+      <FileSize>248284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2709446+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\foam_x_section.DXF</FileName>
+      <SHA1>A3C3EF012F5F4AECE51AA8F7617A2A04F89905B2</SHA1>
+      <FileSize>21525</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2728776+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\Front_GPS_plate.DXF</FileName>
+      <SHA1>57891B08A6332AEE105831D0095DE7E4C569D7B2</SHA1>
+      <FileSize>25260</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2244874+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\gasket.SLDPRT</FileName>
+      <SHA1>376AF676F8EE3175B1EF2497C7667BD9ED760CBC</SHA1>
+      <FileSize>331065</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2751168+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\Isolation_bars.DXF</FileName>
+      <SHA1>80D7AD1624A19B8D0B570F98C1498A8CE1FAF508</SHA1>
+      <FileSize>25900</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2264255+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\Mounting Plate.DXF</FileName>
+      <SHA1>A043565A14CEC3A6565B9B68420FC395DF23BED7</SHA1>
+      <FileSize>26851</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2285505+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\Part1.SLDPRT</FileName>
+      <SHA1>790AFBBEE2A718BD3A736C3FF8AC8537248F8928</SHA1>
+      <FileSize>52797</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2295498+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\sleeeeeve.STL</FileName>
+      <SHA1>99EF9B6B8A492F163234FFABD80B3D441D56CEA7</SHA1>
+      <FileSize>14084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2771919+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\sleeve.SLDPRT</FileName>
+      <SHA1>896F934E6166EDABAB70B5672608AD3668ABB060</SHA1>
+      <FileSize>53090</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2787682+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\spacer.DXF</FileName>
+      <SHA1>B7CE0A8787B0F71EE7A0EFF17FCCDFA804ACA180</SHA1>
+      <FileSize>21438</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2807678+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\steer_spacer.STL</FileName>
+      <SHA1>AD503D5DC3DF384A908E916CD1531299DF9DBA6B</SHA1>
+      <FileSize>9284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2836712+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\waterproof_plates_bottom.DXF</FileName>
+      <SHA1>AE66F092A66E506707676B4123E112BFB52C877D</SHA1>
+      <FileSize>38925</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2859679+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\waterproof_plates_top.DXF</FileName>
+      <SHA1>95C32765CFE009A3AAB3110FCAA1B0D863D08D56</SHA1>
+      <FileSize>29697</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2879316+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\Wheel Side Plate Encoder.DXF</FileName>
+      <SHA1>397AD84AD85A3EB6DB5A131DD36461F241F15BDD</SHA1>
+      <FileSize>23644</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2325398+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\Wheel Side Plate.DXF</FileName>
+      <SHA1>927178D0510DFA0E09A6578F07129E68118EB248</SHA1>
+      <FileSize>23266</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2349659+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\wheel_mount.ai</FileName>
+      <SHA1>4FE7089F35E96ABADDDCE8A77E87F3221C94840B</SHA1>
+      <FileSize>39266</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2919520+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\wheel_mount.DXF</FileName>
+      <SHA1>6EC09D7229E7E13F36234C1D978702430D1D958D</SHA1>
+      <FileSize>21940</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2899985+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\wifi_bottom_board.DXF</FileName>
+      <SHA1>3B1881E6854EC266689489A1AAF35F24383B3498</SHA1>
+      <FileSize>24263</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2941289+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\Wifi_damp_riser.DXF</FileName>
+      <SHA1>6FEBC7E036BDF31BFA4D5637C8A0F6CFDA7B9833</SHA1>
+      <FileSize>23700</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2369322+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\wifi_sides.DXF</FileName>
+      <SHA1>EEB928FB262CFE7A610AAD77E0BA6DD5CD17C2DD</SHA1>
+      <FileSize>21834</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2967688+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\wifi_sides_back.DXF</FileName>
+      <SHA1>668EA70CAE8C1148F0DE538DD13DD37960DBBB75</SHA1>
+      <FileSize>21813</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2992923+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\wifi_sides_front.DXF</FileName>
+      <SHA1>A333B8CA3C8ECE30A7EF48DF032B0C881C408F40</SHA1>
+      <FileSize>27664</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3016958+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF\yeehaw.STL</FileName>
+      <SHA1>C975E6731C1DC9E697CBE5E9CA9DF8F0458E8864</SHA1>
+      <FileSize>8084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3038747+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\6x11_half.ai</FileName>
+      <SHA1>990088AD3815EC2B1C9DEC72A49DDB72ED1F8674</SHA1>
+      <FileSize>1195244</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3063584+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\6x11_half.dxf</FileName>
+      <SHA1>3D12E80ED53DAFACFF1EE5BCB2990ED251A892FB</SHA1>
+      <FileSize>78602</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3089806+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\6x12_quarter.ai</FileName>
+      <SHA1>516E2D72646971C2D95BAF3CDE7667F95E2C8970</SHA1>
+      <FileSize>1195894</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3112864+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\6x12_quarter_2.ai</FileName>
+      <SHA1>004822DEDD6BC504622151D114F65A43093158FE</SHA1>
+      <FileSize>1197933</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3135851+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\6x14_half.ai</FileName>
+      <SHA1>089247E6638F0C72B8CE4C2C2FBB895B6261752C</SHA1>
+      <FileSize>1209974</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3176265+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\6x14_half.dxf</FileName>
+      <SHA1>743F66688326AC4BD3F064367230E73F3DF7DD07</SHA1>
+      <FileSize>59775</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3203306+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\6x6_quarter.ai</FileName>
+      <SHA1>B51856986359B50D9831E609933F4B856E64691B</SHA1>
+      <FileSize>1209440</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3226126+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\9x18_quarter.ai</FileName>
+      <SHA1>E44617337753EC362EC38B7A26E5E5CB3F184D32</SHA1>
+      <FileSize>1208311</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3254073+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\half_inch_2.ai</FileName>
+      <SHA1>BEA5C6BDA09385AAE34A7C47CF7A2A42E9B7676A</SHA1>
+      <FileSize>63988</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3475588+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\half_inch_2.DXF</FileName>
+      <SHA1>49B3F060FCD51296CD433F09A9EC00CC6DBFB22B</SHA1>
+      <FileSize>42183</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3432734+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\half_inch_2.SLDDRW</FileName>
+      <SHA1>434BECF4E184C5CD169F4CBB61F224134643E3A8</SHA1>
+      <FileSize>93147</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3454220+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\half_inch_2_cut.ai</FileName>
+      <SHA1>43337647298DBC1E2DC3FA31B042541B0D944997</SHA1>
+      <FileSize>57266</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3507784+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\half_inch_2_cut.dxf</FileName>
+      <SHA1>9D0AD6E2B96C988F7C00C94FBF176114D86BDF2A</SHA1>
+      <FileSize>37432</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3535432+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\half_in_1.ai</FileName>
+      <SHA1>73D55C042466FE9A2EBA6664FF337AF87F89F8F1</SHA1>
+      <FileSize>74780</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3334342+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\half_in_1.DXF</FileName>
+      <SHA1>971F05960B4C40A4B231D6E32D9947D67E73F932</SHA1>
+      <FileSize>40054</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3276020+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\half_in_1.SLDDRW</FileName>
+      <SHA1>E7D96DBAC702FB7117A2802D4787210A1FD3CAF3</SHA1>
+      <FileSize>145134</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3298885+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\half_in_1_cut.ai</FileName>
+      <SHA1>FA8916B4E27D2936153500B4683311CEE6112790</SHA1>
+      <FileSize>61740</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3361786+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\half_in_1_cut.dxf</FileName>
+      <SHA1>6B2C731C587D63F5420B8A8BDE90E06BC724E5F4</SHA1>
+      <FileSize>59701</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3391553+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\half_in_a.dxf</FileName>
+      <SHA1>2D0217E5D4CA7F5DE2C34ECE8F2C69CF7B59913F</SHA1>
+      <FileSize>62968</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3410658+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\quarter_inch_1.ai</FileName>
+      <SHA1>3BD709192678DBA200078AA0F8A802BD856F0D8A</SHA1>
+      <FileSize>76851</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3593034+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\quarter_inch_1.DXF</FileName>
+      <SHA1>4CB406E26EC2E3B9F5B6AA9ED171330B657FC185</SHA1>
+      <FileSize>45274</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3555390+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\quarter_inch_1.SLDDRW</FileName>
+      <SHA1>AD85BCB1F632497BCDE9FE7E0FE0DF9EAC8C186B</SHA1>
+      <FileSize>89144</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3575342+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\quarter_inch_1_cut.ai</FileName>
+      <SHA1>4E8CA95B719CC098F4A63B2136A5AB8901B1BED4</SHA1>
+      <FileSize>65888</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3612993+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\quarter_inch_1_cut.dxf</FileName>
+      <SHA1>15C89CF723E339E2FA8B12B4B02E61639E040D25</SHA1>
+      <FileSize>81169</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3645615+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\quarter_inch_2.ai</FileName>
+      <SHA1>AC96D7850D5D4F73FE40656BB2399A6D2AB06BBA</SHA1>
+      <FileSize>69328</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3711279+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\quarter_inch_2.DXF</FileName>
+      <SHA1>921E30374FE79E34E3F28E9E4DFF7EA95705D2EB</SHA1>
+      <FileSize>38020</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3670801+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\quarter_inch_2.SLDDRW</FileName>
+      <SHA1>B0A0D2ABE73E6E23FC75C6F4B5A2BA95C491061F</SHA1>
+      <FileSize>104658</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3693076+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\quarter_inch_2_cut.ai</FileName>
+      <SHA1>A868B4528E7F845358FF2BCEFEFE2640A3F25F18</SHA1>
+      <FileSize>57298</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3735598+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DXF_WATERJET\quarter_inch_2_cut.dxf</FileName>
+      <SHA1>518C6FFF24CD775900C5FE07124029E85F809425</SHA1>
+      <FileSize>65831</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.3759204+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\3D Print\cable_base_plate.SLDPRT</FileName>
+      <SHA1>50BB9E82D305741D980A3B94825C06D350CCA535</SHA1>
+      <FileSize>323607</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4318581+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\3D Print\cable_base_plate.STL</FileName>
+      <SHA1>3E23289447B046E1AE278D8F53D15FB090226F82</SHA1>
+      <FileSize>28484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4348481+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\3D Print\magnet_cover.SLDPRT</FileName>
+      <SHA1>51B639A92D8A7FBBB0673EAF291CE6F9147CE19B</SHA1>
+      <FileSize>87728</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4368537+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\3D Print\magnet_cover.STL</FileName>
+      <SHA1>AA0858E5E2C077BE45DDF335273BBB5757D9751A</SHA1>
+      <FileSize>52084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4388340+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\3D Print\router_antenna_holder.STL</FileName>
+      <SHA1>266CE66B9192F99B66A802717583FD1682510848</SHA1>
+      <FileSize>55484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4415444+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Converter box\bottom_board.SLDPRT</FileName>
+      <SHA1>7C93BDC306E6273A1AD1D8A266672DAD15C32A4F</SHA1>
+      <FileSize>199852</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4583472+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Converter box\Converter_box.SLDASM</FileName>
+      <SHA1>BBB7A3CCDB02D4BC73A2CEA9591CC20E1F1A9B62</SHA1>
+      <FileSize>176049</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4459092+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Converter box\Corner_peice.SLDPRT</FileName>
+      <SHA1>F4E38CB6A117C33FABF9A1FE23EE7D9006A5B5F3</SHA1>
+      <FileSize>99175</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4469084+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Converter box\Corner_peice.STL</FileName>
+      <SHA1>33F2DD85A030A356BE959A68E3A1DA7CDA9849E5</SHA1>
+      <FileSize>10684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4502084+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Converter box\Corner_peice_converter.STL</FileName>
+      <SHA1>F9C9584B1CEDE11C7FD3E4302380A2A50165D0BC</SHA1>
+      <FileSize>5684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4519538+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Converter box\dim.txt</FileName>
+      <SHA1>F53B84B8972936B34C61B9ACCEC562093D24F78C</SHA1>
+      <FileSize>65</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4593534+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Converter box\dim2.txt</FileName>
+      <SHA1>02AB5380EDDF5A9C309315DE3C0B204B25E42A8D</SHA1>
+      <FileSize>32</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4603402+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Converter box\Elec_board-needs waterproofing.SLDPRT</FileName>
+      <SHA1>9C7BC1BBD321A2508CFB50ED77A118888DFED91C</SHA1>
+      <FileSize>84006</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4539289+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Converter box\Fuse box.SLDPRT</FileName>
+      <SHA1>B4FEF5A619CFDB52BEE2BCD4158456068D5E3736</SHA1>
+      <FileSize>101078</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4563471+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Converter box\gas.SLDPRT</FileName>
+      <SHA1>4917E4B4E6FAFCDFD3089652F6C42D20150753E0</SHA1>
+      <FileSize>119715</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4626998+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Converter box\sides.SLDPRT</FileName>
+      <SHA1>9A5F57C7C0A9818EC2353B978B8C589392D515FE</SHA1>
+      <FileSize>127585</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4645567+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Teensy\93655A091_Male-Female Threaded Hex Standoff.SLDPRT</FileName>
+      <SHA1>434B17E91CFA9460B93444ADD57F46962FD0C7BF</SHA1>
+      <FileSize>829729</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4847954+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Teensy\boxbottom.SLDPRT</FileName>
+      <SHA1>B5B857966522076A8207FC7EC718457430ADC852</SHA1>
+      <FileSize>269354</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4995929+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Teensy\Lid.SLDPRT</FileName>
+      <SHA1>30939F870E63AE80081755D69FDEF08E4FAB114A</SHA1>
+      <FileSize>85637</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4871474+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Teensy\Teensy_assm.SLDASM</FileName>
+      <SHA1>FCB983BB16C1F078FD95110472AB4884635A0964</SHA1>
+      <FileSize>695541</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4944950+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Teensy\Teensy_bounding.SLDPRT</FileName>
+      <SHA1>FABF9219D1FB907ADEDE0D45119CB91B78342075</SHA1>
+      <FileSize>33347</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4964918+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Teensy\Teensy_PCB.SLDPRT</FileName>
+      <SHA1>C1778EB398621B85C73EA1B17EBFCF79F70B3FE5</SHA1>
+      <FileSize>9588566</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4921081+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof\3d print\Sides_1.STL</FileName>
+      <SHA1>64EE3847E9F70D50C8363C0489D9AB79FC596089</SHA1>
+      <FileSize>17484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5015887+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof\3d print\Sides_2 (make 2).STL</FileName>
+      <SHA1>4A4EDA5819B7DEF7FBFF731017BF5B76DFA92444</SHA1>
+      <FileSize>18684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5037047+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof\3d print\Sides_3 (make 2).STL</FileName>
+      <SHA1>5E3D6DD2F4B9E32D8C89743DB010F3865C02301A</SHA1>
+      <FileSize>19084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5062364+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof\Cable Gasket.SLDPRT</FileName>
+      <SHA1>76B1510611C2F24A2BCDBB432C9D2ED997569FD6</SHA1>
+      <FileSize>93130</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5072361+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof\cable_base_plate.SLDPRT</FileName>
+      <SHA1>3857093B87F5ECD01C14C8E60C829060C498E4C4</SHA1>
+      <FileSize>568200</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5232366+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof\foam.SLDPRT</FileName>
+      <SHA1>B107D67FF14389FCC322FDF69E933F3EB75C3830</SHA1>
+      <FileSize>96448</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5254110+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof\Intel_NUC.SLDPRT</FileName>
+      <SHA1>8C1D59DDB5C273A13175E609F6F2C2796F0A15D7</SHA1>
+      <FileSize>132372</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5100920+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof\Isolation_bars.SLDPRT</FileName>
+      <SHA1>99F458E8F2067288F5B6AC82C6B194BC9C523567</SHA1>
+      <FileSize>125222</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5122471+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof\Isolator.SLDPRT</FileName>
+      <SHA1>F4D50C1C4328424E0B9C5C192F7ACE92D968E4B6</SHA1>
+      <FileSize>255763</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5134874+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof\Mirrorfoam.SLDPRT</FileName>
+      <SHA1>59891C0624DD992B45CB9198A0AAC814D29A6E2C</SHA1>
+      <FileSize>175311</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5185157+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof\MirrorMirrorfoam.SLDPRT</FileName>
+      <SHA1>917118F1508C2EBD057DE5D87DC0D60402FE27CE</SHA1>
+      <FileSize>117249</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5174758+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof\Sides.SLDPRT</FileName>
+      <SHA1>725B3928C3FCF4531649B015C80D84B2C8310B76</SHA1>
+      <FileSize>380099</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5211270+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof\waterproof.SLDASM</FileName>
+      <SHA1>4B485C032E61393EB81313344D5912087ECFDA81</SHA1>
+      <FileSize>479624</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5275988+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof\waterproof_plates.SLDPRT</FileName>
+      <SHA1>7CA53FE397DFA2B1168471058CBD9FD3271C5363</SHA1>
+      <FileSize>552709</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5292971+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof_old\bottomwaterproof.SLDPRT</FileName>
+      <SHA1>95D8914F595C3E28EF3756CDAA8EF53E9C397164</SHA1>
+      <FileSize>1028626</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5390240+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof_old\bottomwaterproof_fixxing.SLDPRT</FileName>
+      <SHA1>7C68C095B633F972F582EE1FB90FF8BD06996D8F</SHA1>
+      <FileSize>269808</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5412869+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof_old\foam.SLDPRT</FileName>
+      <SHA1>C088153789519E90F099FEB62F79200408C2B326</SHA1>
+      <FileSize>79634</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5432823+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof_old\Intel_NUC.SLDPRT</FileName>
+      <SHA1>8C1D59DDB5C273A13175E609F6F2C2796F0A15D7</SHA1>
+      <FileSize>132372</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5312938+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof_old\Mirrorfoam.SLDPRT</FileName>
+      <SHA1>459E1C9AB2ECE98E106385ECCD298A31599C4F73</SHA1>
+      <FileSize>45721</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5363689+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof_old\MirrorMirrorfoam.SLDPRT</FileName>
+      <SHA1>42EC0B3AD1166784906428ABDA28EDA6337447D6</SHA1>
+      <FileSize>87792</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5343731+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Waterproof_old\waterproof.SLDASM</FileName>
+      <SHA1>550AFB6CFE63C2F191C92BFE1A04E7690587A700</SHA1>
+      <FileSize>188643</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5452757+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\wifi\antenna_base.SLDPRT</FileName>
+      <SHA1>163324DD5978E6AB86559138B8AE5CB913842A06</SHA1>
+      <FileSize>109535</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5595253+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\wifi\antenna_body.SLDPRT</FileName>
+      <SHA1>FA435FB93C888974168F6DCEDE2E8BC1C90D6647</SHA1>
+      <FileSize>116480</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5625157+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\wifi\dim.txt</FileName>
+      <SHA1>3C481F68C75607B9005F852CE0B3D27510D1263D</SHA1>
+      <FileSize>67</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5635119+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\wifi\dim2.txt</FileName>
+      <SHA1>02AB5380EDDF5A9C309315DE3C0B204B25E42A8D</SHA1>
+      <FileSize>32</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5650510+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\wifi\Elec_board-needs waterproofing.SLDPRT</FileName>
+      <SHA1>9C7BC1BBD321A2508CFB50ED77A118888DFED91C</SHA1>
+      <FileSize>84006</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5585270+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\wifi\router.SLDASM</FileName>
+      <SHA1>41146E0AB4923017ADD869EA3D366C2E5678A582</SHA1>
+      <FileSize>246662</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5681975+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\wifi\router_body.SLDPRT</FileName>
+      <SHA1>5961161F444F9F5E7C58B6E1CE2BF43F8E6EF37D</SHA1>
+      <FileSize>1072344</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5706214+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\wifi\router_box_base.SLDPRT</FileName>
+      <SHA1>BE130548ADA0AEF046FD912583C13472D7925B82</SHA1>
+      <FileSize>34105</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5726768+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\wifi\wifi_bottom_board.SLDPRT</FileName>
+      <SHA1>87A8780030AE79EA134BA3DD0258CA3D8B562131</SHA1>
+      <FileSize>161182</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5806670+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\wifi\wifi_box.SLDASM</FileName>
+      <SHA1>FDF4BB00C08CB5BDE86707CA1ECDB3A65843F054</SHA1>
+      <FileSize>353806</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5835466+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\wifi\wifi_Corner_peice.SLDPRT</FileName>
+      <SHA1>0B8C931BB56FDF63269C84B21B1AAAD5FC9667ED</SHA1>
+      <FileSize>181842</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5745793+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\wifi\wifi_Corner_peice_1_print_2.STL</FileName>
+      <SHA1>445DD8C19CF4D2C8C0BA40758584FE5CA74973B0</SHA1>
+      <FileSize>10084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5766059+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\wifi\wifi_Corner_peice_2_print_2.STL</FileName>
+      <SHA1>1C3F890F07BDA9D7F3A5521A5BE0FCA2101B5DB1</SHA1>
+      <FileSize>10084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5786087+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\wifi\wifi_gas.SLDPRT</FileName>
+      <SHA1>8158B7B78534868743673DE1DAB36562568BA240</SHA1>
+      <FileSize>124078</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5850373+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\wifi\wifi_sides.SLDPRT</FileName>
+      <SHA1>EAEE66C744A3E5AD17EEA4B31AC27E7AC63D959C</SHA1>
+      <FileSize>173990</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5878479+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\93655A091_Male-Female Threaded Hex Standoff.SLDPRT</FileName>
+      <SHA1>A63EC7FAD0F70E44B4492C4DAA5EE9860303CEC1</SHA1>
+      <FileSize>777204</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4435980+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\battery assm.SLDASM</FileName>
+      <SHA1>75186DB85D846D1EBF7A3C06F827F37E17CD212A</SHA1>
+      <FileSize>469950</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5472685+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\battery mount.SLDPRT</FileName>
+      <SHA1>417CCC633456A87943F3EB41E7A0A04F4C9A3965</SHA1>
+      <FileSize>210890</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5498134+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\converter.SLDPRT</FileName>
+      <SHA1>FCF9A06535ED61F7E8F50AC05486EE09AE3F404B</SHA1>
+      <FileSize>153018</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5522053+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\FR05-S101.SLDPRT</FileName>
+      <SHA1>958C2F054E0EA55CC039C00058CD37A84D7604D1</SHA1>
+      <FileSize>269470</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4671833+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\fuse_box.SLDPRT</FileName>
+      <SHA1>E6D6B6485CDE390E118FE429FAAE2D79397A1C0B</SHA1>
+      <FileSize>100627</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5532037+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\GNSS_antenna.SLDPRT</FileName>
+      <SHA1>ED78F4FA6BF04DCC94BC6603BFD8E98CAB474B1E</SHA1>
+      <FileSize>136879</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4711069+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\GNSS_INS.SLDPRT</FileName>
+      <SHA1>84A7475BAB85F1403DAD80728A9354C8EA6A666C</SHA1>
+      <FileSize>142313</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4689370+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\IntelRealsense_D435_Multibody.SLDPRT</FileName>
+      <SHA1>15414EB9C6FB36A6ED368145FDC1A8779512BABA</SHA1>
+      <FileSize>1353216</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4735750+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\Milwaukee M18 Red Lithium Battery.step.SLDPRT</FileName>
+      <SHA1>E8F65D525107D5834C2F5B301DC24EC8CE494C29</SHA1>
+      <FileSize>761478</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4797288+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\MX-64T.SLDPRT</FileName>
+      <SHA1>4A05B9289DC9CC2AEBDCCB98FA7762104C3D4BAA</SHA1>
+      <FileSize>949019</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4759005+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\MX-64T.stp</FileName>
+      <SHA1>5A3A20A7A627DE386C6E75D78B26D345041077D4</SHA1>
+      <FileSize>716080</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4779147+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\RC Receiver.SLDPRT</FileName>
+      <SHA1>FB2E8EBA56131C379483E3550761564CFF623013</SHA1>
+      <FileSize>299340</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.4815553+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Electronics\router_antenna_holder.SLDPRT</FileName>
+      <SHA1>515F4628D402D8FEAEB760B18D45294DA2BC2641</SHA1>
+      <FileSize>181400</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5560567+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\1. Frame\Frame Parts\Diagonal Member.SLDPRT</FileName>
+      <SHA1>8AE6C4897AC9B214AD8DAD4369101B1D1650E07C</SHA1>
+      <FileSize>96290</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5946085+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\1. Frame\Frame Parts\Horizontal Cross member.SLDPRT</FileName>
+      <SHA1>EEBC8C038783AE72181C3D9FE4364E3CFD199033</SHA1>
+      <FileSize>66574</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5966456+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\1. Frame\Frame Parts\Horizontal Member.SLDPRT</FileName>
+      <SHA1>F2A50237D6C60ACA58B74CC7451D7C67F184B61A</SHA1>
+      <FileSize>70253</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5992507+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\1. Frame\Frame Parts\Mounting Plate.SLDPRT</FileName>
+      <SHA1>37C1A3AC7C146655067B35DCE312F7167CB44448</SHA1>
+      <FileSize>218199</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6016078+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\1. Frame\Frame Assembly.SLDASM</FileName>
+      <SHA1>E40AA3D75544EC4C6DC4DCFF3FCE0FB23DF362E9</SHA1>
+      <FileSize>110647</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5924850+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\1. Frame\frontwheelassem_mount.SLDPRT</FileName>
+      <SHA1>431304B6C4E536DD9722F279259E8AF210752C5F</SHA1>
+      <FileSize>111610</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6037174+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\1. Frame\side_struts.SLDPRT</FileName>
+      <SHA1>43E0FA940FA29908119A5CAC3B5F3EFD70DF3402</SHA1>
+      <FileSize>87740</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6057729+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\2. Steering\Steering Parts\dynamixel_mount.SLDPRT</FileName>
+      <SHA1>82DEBEF739F59BAB3F36AC9645439051AD8D00B7</SHA1>
+      <FileSize>199785</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6239332+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\2. Steering\Steering Parts\spacer.SLDPRT</FileName>
+      <SHA1>FDECE3BF55F86F845520C97EF8540208A09E7F55</SHA1>
+      <FileSize>83053</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6259405+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\2. Steering\Steering Parts\wheel_mount.SLDPRT</FileName>
+      <SHA1>99475F52D6286D1FBA684B28061595E95633E813</SHA1>
+      <FileSize>117809</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6284929+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\2. Steering\1277N28_Corrosion-Resistant Timing Belt Pulley.SLDPRT</FileName>
+      <SHA1>4DA3A00E55895EC893076C3C1FD063AC524BB7F5</SHA1>
+      <FileSize>373092</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6089149+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\2. Steering\4416T651_Easy-to-Machine 1215 Carbon Steel.SLDPRT</FileName>
+      <SHA1>EB37F7518C263DF56E0142A3BA3294428E5926CA</SHA1>
+      <FileSize>236029</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6107815+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\2. Steering\6384K344_Ball Bearing.SLDPRT</FileName>
+      <SHA1>2C7DD0CB7106070AF482DC993B04EA4266D85AF9</SHA1>
+      <FileSize>368324</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6128985+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\2. Steering\6484K222_XL Series Timing Belt.SLDPRT</FileName>
+      <SHA1>8A8C140A610E2F32750F3C4B9915CE8B943CF34D</SHA1>
+      <FileSize>335950</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6156619+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\2. Steering\am-2986 FR8ZZ Hex Bearing.SLDPRT</FileName>
+      <SHA1>6D03235835215FAAB0BBFB9720D89ADA99FD1CBE</SHA1>
+      <FileSize>117670</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6330918+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\2. Steering\brake_dyn_mount1.SLDPRT</FileName>
+      <SHA1>9A48FCC9ED3FE8A386B62BF0E8646E886E959E22</SHA1>
+      <FileSize>332798</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6352638+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\2. Steering\Frame Assembly And Steering.SLDASM</FileName>
+      <SHA1>9BA7A62A2387AEB67FF99FB7D195DB326913EA45</SHA1>
+      <FileSize>11057026</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6214395+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\2. Steering\steer_spacer.SLDPRT</FileName>
+      <SHA1>FE5EEA50A735F8E76A8CB27822A5107307E1EC8C</SHA1>
+      <FileSize>59720</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6374947+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\2. Steering\Wheel Side Plate.SLDPRT</FileName>
+      <SHA1>8E2C51E711E38C787FD8F51DC503CDAFFB3089B1</SHA1>
+      <FileSize>283290</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6305897+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\3. GPS\6546K526_Multipurpose 6061 Aluminum Tube.SLDPRT</FileName>
+      <SHA1>6B617B9742E302ACC36E0E25C1B5C2AC3D541EC7</SHA1>
+      <FileSize>160484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6397351+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\Renderings\untitled.160.jpg</FileName>
+      <SHA1>49B04371BB9495F21B8594AFC05CFAB2EF24734F</SHA1>
+      <FileSize>71662</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6731033+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\Renderings\untitled.211.jpg</FileName>
+      <SHA1>DB8F7C1A56045FBC551A712ACB934920EB8E6DEA</SHA1>
+      <FileSize>108095</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6776973+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\Renderings\V-BRAKE20111028-27048-3n5rur.JPG</FileName>
+      <SHA1>0A4531219A717E30247B064E2E7C5C257F9F3E72</SHA1>
+      <FileSize>15009</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6713849+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\6in_wheel_assem.SLDASM</FileName>
+      <SHA1>E3C1F0E8686D8CD3FE872B02FDA3E378BCC3D362</SHA1>
+      <FileSize>4317954</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6430808+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\am-0144a SmoothGrip Wheel.SLDPRT</FileName>
+      <SHA1>B66FDAA2D91F3A4400B1EBC8511222A42AB3DFCE</SHA1>
+      <FileSize>4227420</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6826816+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\am-0144a SmoothGrip Wheel.STEP</FileName>
+      <SHA1>DCE94C34CAA3F95D3444D0EC937A400E459B7F73</SHA1>
+      <FileSize>5210680</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6867887+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\am-3403 24 tooth HTD pulley half 500hex.SLDPRT</FileName>
+      <SHA1>CD922FC577DC9314AB1BC21BF790A1E717DE3622</SHA1>
+      <FileSize>4514030</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6903595+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\am-4124 500 Hex Hub.SLDPRT</FileName>
+      <SHA1>F1A9535E4908A57DBC1183A1C7A1AB0413819CDD</SHA1>
+      <FileSize>170093</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6913803+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\Bicycle Calliper.SLDPRT</FileName>
+      <SHA1>7B9DD31B2EDE4B49A4E531DC1E9147B42477A846</SHA1>
+      <FileSize>587893</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6567638+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\BIKE V-BRAKE.SLDPRT</FileName>
+      <SHA1>DB7D1276D7F6688B5BBEFA6273E5CA3979BDDED6</SHA1>
+      <FileSize>4206955</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6471052+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\BIKE V-BRAKE.STEP</FileName>
+      <SHA1>FA58D66837C4B90CAD33EC8485DA928D609F6CD7</SHA1>
+      <FileSize>8143184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6522399+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\BIKE V-BRAKE.stl</FileName>
+      <SHA1>91FCC046B463A1208E2FBAAB84E2C191661068E1</SHA1>
+      <FileSize>40684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6542326+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\bike_v-brake.stl</FileName>
+      <SHA1>F53EEDAF86A1727666BD8AC989649750E4DE66D7</SHA1>
+      <FileSize>765784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6939399+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\bike_v-brake.stp</FileName>
+      <SHA1>999BBB9F7EFC9279EE949DFCBEBD3F6412470CC1</SHA1>
+      <FileSize>5713047</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6972104+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\Brake Pad.SLDPRT</FileName>
+      <SHA1>E991496B226045CA73DE0448D6F8D139157593D4</SHA1>
+      <FileSize>120401</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6599947+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\brake_dyn_mount1_0.2mm_PLA_MK3_3h3m.gcode</FileName>
+      <SHA1>6991E2808E30B41F07D50A10878B68DC667A28D7</SHA1>
+      <FileSize>7292586</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7023260+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\brake_mount.SLDPRT</FileName>
+      <SHA1>75950E24529026964E9E4DF3B44F3D730746598B</SHA1>
+      <FileSize>103206</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7043221+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\Center Pull Brake Assembly.SLDASM</FileName>
+      <SHA1>7F07FACDCA76861E21FC072FEE8F3428975C0432</SHA1>
+      <FileSize>214537</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6620206+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\Center Pull Brake Assembly.zip</FileName>
+      <SHA1>352405B1782FCDFD68DD5F160A23D04A8D647287</SHA1>
+      <FileSize>1464962</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.6655236+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\encoder_mount.STL</FileName>
+      <SHA1>F6601563420B34D2811F0373ABF8CC2F84C9C0BD</SHA1>
+      <FileSize>38984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7071500+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\encoder_mount_0.2mm_PLA_MK3_24m.gcode</FileName>
+      <SHA1>89FE4CCC1F6D5CCD54C582D276241C14BFF5226E</SHA1>
+      <FileSize>567607</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7091449+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\flat washer type a selected narrow_ai.sldprt</FileName>
+      <SHA1>D17C37AC531366BA8D24C3A28D712BCDE27A3811</SHA1>
+      <FileSize>250368</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7111627+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\horn_connector.DXF</FileName>
+      <SHA1>E949FA7BEE230FE02E2A51EE00F35F49BEB2F232</SHA1>
+      <FileSize>22931</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7132010+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\horn_connector.SLDPRT</FileName>
+      <SHA1>FDC5B773F7922FD98A96D101ACFD0485BB77AB88</SHA1>
+      <FileSize>148806</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7161940+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\horn_connector.STL</FileName>
+      <SHA1>87F2F3F6F97295202326B0A73535A47043CB09C6</SHA1>
+      <FileSize>59684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7185393+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\machine screw nut hex_ai.sldprt</FileName>
+      <SHA1>18FE331D292111F8DC60EDB24E4C3FBA3FD4B615</SHA1>
+      <FileSize>483840</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7205342+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\pulley_spacer.SLDPRT</FileName>
+      <SHA1>5A923471195C06AB7B557BB3831E886A73F8520F</SHA1>
+      <FileSize>86289</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7229929+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\Parts\router_antenna_holder_0.2mm_PLA_MK3S_9h18m.gcode</FileName>
+      <SHA1>60BF7858A9A5342E7B46D672BDECE8A41027AA1B</SHA1>
+      <FileSize>17624621</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:57:57.4310335+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\bike_cable_mount.SLDPRT</FileName>
+      <SHA1>519856FE0C1D87B2FA0471A4A5698413AA542F52</SHA1>
+      <FileSize>119574</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7252491+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\fw_assem.SLDASM</FileName>
+      <SHA1>EBB96A0EDA74905F247264D6281C167A0816AB6B</SHA1>
+      <FileSize>19102319</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T22:15:29.4220275+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\fw_steering_spacer.SLDPRT</FileName>
+      <SHA1>2812CC210CEF59151763D3B556E5846F211D3733</SHA1>
+      <FileSize>58951</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7272623+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\fw_steering_spacer.STL</FileName>
+      <SHA1>70B1F5449E993EB57ACC1C8EF43868C5A2DCE7DC</SHA1>
+      <FileSize>9284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7291572+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\pullygobrr.SLDPRT</FileName>
+      <SHA1>F5D4FB43D63D37A165E51A81712B2CF13ED33377</SHA1>
+      <FileSize>386542</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7311449+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\pullygobrr.STL</FileName>
+      <SHA1>10514526A8C773F76E03960178A438F9A02A5639</SHA1>
+      <FileSize>149284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7337604+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front Wheel\pullygobrr2.STL</FileName>
+      <SHA1>C65F8D5278748E1B302815283328318A50D0722E</SHA1>
+      <FileSize>284284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7358608+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>McMaster\6008K16_Bolt-Down Vibration-Damping Mount with Unthreaded Hole.SLDPRT</FileName>
+      <SHA1>F10B4067BE071C4FEC0AA186D7584CDFCE86DF4D</SHA1>
+      <FileSize>554037</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7459596+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>McMaster\6772K91_Light Duty Bolt-Down Vibration-Damping Mount.SLDPRT</FileName>
+      <SHA1>FF5AC67937872345499BA572AB8C1A0320530DA6</SHA1>
+      <FileSize>337931</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7479623+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>McMaster\8982K925_Multipurpose 6061 Aluminum 90 Degree Angle.SLDPRT</FileName>
+      <SHA1>28FA45A6358ACDEECA8E82CD0E348A3DF07B001B</SHA1>
+      <FileSize>134028</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7499554+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>McMaster\91251A551_Black-Oxide Alloy Steel Socket Head Screw.SLDPRT</FileName>
+      <SHA1>D3D7B48A048DFAA3337EC8601FB8C4D53EA5CC40</SHA1>
+      <FileSize>849844</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7529450+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>McMaster\92314A201_18-8 Stainless Steel Hex Head Screws.SLDPRT</FileName>
+      <SHA1>1648ED121A556188820629AC0045C40D8FB23877</SHA1>
+      <FileSize>878726</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7553451+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\STL\Blocco D455.STL</FileName>
+      <SHA1>89D2DD30C8E44070D58C453889BD14592EE14F66</SHA1>
+      <FileSize>46484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8113930+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\STL\camera_mount.STL</FileName>
+      <SHA1>7D43C4F19EE012A63F4B42D967DE6846F91CC885</SHA1>
+      <FileSize>32884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8166634+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\STL\camera_mount_clamp.STL</FileName>
+      <SHA1>4D6C7356FF7DEE5B128441973F1D01D22239F63A</SHA1>
+      <FileSize>9884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8186481+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\STL\Cover Telecamera.STL</FileName>
+      <SHA1>F3548EF0194C2C4D4E7C0210C84A2E726B906815</SHA1>
+      <FileSize>90384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8131912+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\bike_clamp_pin.SLDPRT</FileName>
+      <SHA1>3A0EBB2B189347AE6085218AEFCBF1E5C05BD088</SHA1>
+      <FileSize>89856</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8219746+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\Blocco D455.SLDPRT</FileName>
+      <SHA1>08213139C187202E1B35E8BBF412164730F430DC</SHA1>
+      <FileSize>108487</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7923119+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\camera_mount.SLDPRT</FileName>
+      <SHA1>68C3EAAD5F6D062F31799B55BEBAE5EC5DFACF34</SHA1>
+      <FileSize>151586</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8238498+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\camera_mount_clamp.SLDPRT</FileName>
+      <SHA1>8D931816440CCC75383706A0FE5A30218AE92C26</SHA1>
+      <FileSize>118705</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8259340+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\camera_support.SLDPRT</FileName>
+      <SHA1>066F4E39054BE8ED1A38BC326E289E2689C955AF</SHA1>
+      <FileSize>291248</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8278473+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\Cover Telecamera.SLDPRT</FileName>
+      <SHA1>7A96438CABC1C715B761D404F5DC09DDC3B3A5EC</SHA1>
+      <FileSize>342387</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7941442+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\Intel Realsense D455.SLDPRT</FileName>
+      <SHA1>069DAC33DCAEAF7F1A879B46561BA554F8940FA6</SHA1>
+      <FileSize>9163551</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7986898+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\Intel_RealSenseAssem_D435 COVER.SLDASM</FileName>
+      <SHA1>A636B665C84928CBBD2EC070D9F37E34627F0D6E</SHA1>
+      <FileSize>10709702</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:57:57.4554168+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\Intel_RealSense_D435_FrontCover.SLDPRT</FileName>
+      <SHA1>9B3F23708E7DDC5CDB5BD91ECA2766E750499F3F</SHA1>
+      <FileSize>3280277</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8031319+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\Intel_RealSense_D435_RearCover.SLDPRT</FileName>
+      <SHA1>95F27676EFF3489AA5E3831E678B00E24C89A548</SHA1>
+      <FileSize>1787529</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8059110+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\Intel_RealSense_D455.SLDASM</FileName>
+      <SHA1>9D0E4BCFEE1B38EC3B717019430772CC1FACDB76</SHA1>
+      <FileSize>4749348</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8094041+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\realsense_mount.SLDASM</FileName>
+      <SHA1>156DC1102BD9C92B260A625345DDF7FED09552D9</SHA1>
+      <FileSize>4802400</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8312533+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\camera_mount\USB C amazon basic.SLDPRT</FileName>
+      <SHA1>62B4819A5CBCBEBF0A7EF2F91A34D68D8CB9A177</SHA1>
+      <FileSize>146857</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8195013+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\Pushbar\6527K361_Low-Carbon Steel Rectangular Tube.SLDPRT</FileName>
+      <SHA1>E9AC6920185F7AA2E0164C8F4A14638F83CE4E79</SHA1>
+      <FileSize>119393</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7720064+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\Pushbar\6546K526_Multipurpose 6061 Aluminum Rectangular Tube-Static 1.BMC</FileName>
+      <SHA1>38F081B90BBDC558BEEBE3374C8E9B374F38F940</SHA1>
+      <FileSize>223</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7729853+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\Pushbar\6546K526_Multipurpose 6061 Aluminum Rectangular Tube-Static 1.CWR</FileName>
+      <SHA1>26CF2A93F32E02082B946ADFBC473B6F98CA1A22</SHA1>
+      <FileSize>54616064</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:57:57.4491026+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\Pushbar\6546K526_Multipurpose 6061 Aluminum Rectangular Tube-Static 1.LOG</FileName>
+      <SHA1>6CDD27844BA8E139F9A37B337BDC47E82A07A1ED</SHA1>
+      <FileSize>314</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7743100+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\Pushbar\6546K526_Multipurpose 6061 Aluminum Rectangular Tube-Static 1.MFC</FileName>
+      <SHA1>3FF31262917E7BEEE8A80D2D34366D10A7FB0F11</SHA1>
+      <FileSize>852</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7765489+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\Pushbar\6546K526_Multipurpose 6061 Aluminum Rectangular Tube-Static 1.PCG</FileName>
+      <SHA1>D13E511A45F96387941F84DB2FC2ED5945C7E978</SHA1>
+      <FileSize>60293604</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T22:15:29.4441999+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\Pushbar\6546K526_Multipurpose 6061 Aluminum Rectangular Tube-Static 1.PGF</FileName>
+      <SHA1>3CA529951D5FCA7DA4CEF06B6A5EC10C47F7F6E5</SHA1>
+      <FileSize>14308</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7783841+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\Pushbar\6546K526_Multipurpose 6061 Aluminum Rectangular Tube.SLDPRT</FileName>
+      <SHA1>33BF2668DC4882525F195DF479A5B2E33C302D45</SHA1>
+      <FileSize>114959</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7796807+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\Pushbar\Handle.SLDPRT</FileName>
+      <SHA1>F1B904CA9A6ECF4BBDC005D949CC287CF92EA16B</SHA1>
+      <FileSize>447164</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7816762+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\Pushbar\nvm.SLDPRT</FileName>
+      <SHA1>FE26C13D219BD91BA66E3E942E7E7548937DBAA3</SHA1>
+      <FileSize>44692</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7882805+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\Pushbar\PerformanceLog.txt</FileName>
+      <SHA1>0E78197C2DF523DCA479CE27D173BBA247F9554B</SHA1>
+      <FileSize>50</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7836489+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\Pushbar\Pushbar.SLDASM</FileName>
+      <SHA1>C98FCF2EB254E772E92EE39ECFB6AE5CD9D1D0FF</SHA1>
+      <FileSize>58086</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7862031+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\45_bracket_2in.SLDPRT</FileName>
+      <SHA1>37E4B7B4455E62530CAA12DD650D9F7D4A1B95C1</SHA1>
+      <FileSize>88191</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7598771+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\6546K526_Multipurpose 6061 Aluminum Rectangular Tube(1).SLDPRT</FileName>
+      <SHA1>BD13A9F0F2C11ACDBFD268E07FB4FC03352E07EC</SHA1>
+      <FileSize>204327</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7617729+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\9001K548_Architectural 6063 Aluminum U-Channel.SLDPRT</FileName>
+      <SHA1>AFB5099BEDA6B5531B8D339C1DF3E4CBBEA9C964</SHA1>
+      <FileSize>136636</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7636859+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\GPS_bracket.SLDPRT</FileName>
+      <SHA1>0BF84E1EFAF7B6350DFAC0C9B2633C68C7FB233A</SHA1>
+      <FileSize>138212</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7646844+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\GPS_plate.SLDPRT</FileName>
+      <SHA1>FF768C7039443365999C4F9381CBE330579AA34D</SHA1>
+      <FileSize>124837</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7675034+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\lebracket.SLDPRT</FileName>
+      <SHA1>27CFA681664D7384D578B69FCA998EAB38F686D4</SHA1>
+      <FileSize>78358</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8343177+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\Pushbar-Mount.SLDASM</FileName>
+      <SHA1>AFE60DF68548F5ACB8772C3EC1E8D12AA9B40E7A</SHA1>
+      <FileSize>368355</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7696938+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\pushbar_spacer.SLDPRT</FileName>
+      <SHA1>E850972156AEED94B825C5F7066C49E9F23C03DC</SHA1>
+      <FileSize>57034</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8363330+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\pushbar_spacer.STL</FileName>
+      <SHA1>BB137FCE5658D73C28F1F1C6C07E73FE9724F1DB</SHA1>
+      <FileSize>15084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8383296+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\pushbar_spacer1.STL</FileName>
+      <SHA1>68906A87D3C868BA8E4A2D8F6DFE014793179810</SHA1>
+      <FileSize>13684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8402672+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\spacer2.SLDPRT</FileName>
+      <SHA1>990F454DE586B59CF7637F1BA9407C9D7C63A046</SHA1>
+      <FileSize>59155</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8422698+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pushbar-Mount\Steel_GPS_ground_plate.SLDPRT</FileName>
+      <SHA1>7D7295F50AFE738F64D16409374FDCD3BAF659A8</SHA1>
+      <FileSize>197524</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7901948+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell\front_mount_bar.SLDPRT</FileName>
+      <SHA1>216B4E812CDB1DCE1A52D9A6D9B3767BD70D6169</SHA1>
+      <FileSize>54195</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8653309+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell\Left_Front_Shell_Cover.STL</FileName>
+      <SHA1>85FB069D95E12F5787C2169FF4B4CFB1C4B66725</SHA1>
+      <FileSize>318284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8453667+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell\Magnet_1in.SLDPRT</FileName>
+      <SHA1>A4544C89B59D4098852F7957AEFC705AF5CD8D70</SHA1>
+      <FileSize>73180</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8473763+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell\magnet_bracket.SLDPRT</FileName>
+      <SHA1>7E22BAD33AC3ABB71C75AB930EB61ED693D18A4A</SHA1>
+      <FileSize>119202</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8683196+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell\magnet_bracket.STL</FileName>
+      <SHA1>7A5954A2B1F8BBDFCCACCD1956BE578AF2C374E2</SHA1>
+      <FileSize>15684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8704340+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell\Magnet_holder-Static 1.CWR</FileName>
+      <SHA1>7D445E13F965FF9A3835E4257C454D3AA46C83EB</SHA1>
+      <FileSize>10366976</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8530462+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell\Magnet_holder-Static 1.LOG</FileName>
+      <SHA1>3EA04DEB313E9F40942885E348AD0E852497D02D</SHA1>
+      <FileSize>238</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8550388+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell\Magnet_holder-Static 1.MFC</FileName>
+      <SHA1>098768EA7019538500B0AE2F558E0C7BCEF2904F</SHA1>
+      <FileSize>458</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8560485+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell\Magnet_holder.SLDPRT</FileName>
+      <SHA1>B8D9735B5A5C8A4256D3CFD3E6AD3A53469B9343</SHA1>
+      <FileSize>192154</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8582051+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell\Magnet_holder.STL</FileName>
+      <SHA1>15F3638BCAA35561045A4749B148852AC4786B42</SHA1>
+      <FileSize>115984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8594014+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell\other_front_shell_cover.SLDPRT</FileName>
+      <SHA1>270E1D59E8883DB7A4EB0B9245E67EE118617207</SHA1>
+      <FileSize>2268907</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8723134+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell\PerformanceLog.txt</FileName>
+      <SHA1>0E78197C2DF523DCA479CE27D173BBA247F9554B</SHA1>
+      <FileSize>50</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8613966+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell\Right_Front_Shell_Cover.STL</FileName>
+      <SHA1>E51716BAF6DD56D2E930782414155D3E06C16E7F</SHA1>
+      <FileSize>318284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8633341+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell\shell_f117.SLDPRT</FileName>
+      <SHA1>5C7C6CA303B14568407D9AD167026D161BC54DE7</SHA1>
+      <FileSize>1286877</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8776079+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell\shell_not_a_f117.SLDPRT</FileName>
+      <SHA1>BB473E3B98B7A7250F2E829C27DC2806129BEDDF</SHA1>
+      <FileSize>2349813</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8806756+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell\shell_not_a_f117_holy.SLDPRT</FileName>
+      <SHA1>161C1D9E3C107358AD245279A1D652FEBA631145</SHA1>
+      <FileSize>763477</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8833649+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>weights\another_steel_sheet.SLDPRT</FileName>
+      <SHA1>B14741DE06C23E67CB359C10E83278ABBCC60E6B</SHA1>
+      <FileSize>92410</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.9189796+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>weights\steel_sheet.SLDPRT</FileName>
+      <SHA1>B0A70E9B80FFC5B7C719D41553F2FEB151AEEB60</SHA1>
+      <FileSize>92902</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.9209882+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>weights\weight for robobuggy.SLDPRT</FileName>
+      <SHA1>3B0AA81F5B48BAB8822DB4196F2DB63490653600</SHA1>
+      <FileSize>86099</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.9230316+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>.gitignore</FileName>
+      <SHA1>035F5C953E9A9607B6C268D9B53DB68D0DE68408</SHA1>
+      <FileSize>5</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.1157079+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Battery_mounting_plate.SLDPRT</FileName>
+      <SHA1>90F8E53F47A653CB798E631900B76F8D95743ADC</SHA1>
+      <FileSize>158493</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2025902+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>chassis.SLDPRT</FileName>
+      <SHA1>EA3858DD32D01453AF5E04C4D750477C56DB716A</SHA1>
+      <FileSize>1203172</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.9031139+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>chassis_with_shell.SLDASM</FileName>
+      <SHA1>2E76985E4C41FBACCDBA8C9A9A607861ADBE2CB8</SHA1>
+      <FileSize>490552</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.9053572+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Complete.SLDASM</FileName>
+      <SHA1>CEDE5684D8680398D6924FE8C18E9E33E99F4074</SHA1>
+      <FileSize>27179123</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2129915+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DC_DC_Converter.SLDPRT</FileName>
+      <SHA1>86FA5068B4D986A218DB8C6FABFD8FC0899A4998</SHA1>
+      <FileSize>132041</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.2149886+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>electronics_mounting_plate.SLDPRT</FileName>
+      <SHA1>9877333F3623CC7D43F6CE8A21432055588AC8A8</SHA1>
+      <FileSize>270437</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.9073528+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Fix back push bar.SLDPRT</FileName>
+      <SHA1>0E778BC4D94BFDF013F15E5A89695F9992C3C34D</SHA1>
+      <FileSize>112624</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.5899764+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front_GPS_plate.SLDPRT</FileName>
+      <SHA1>08751F3B6F131663CD13D62B5CA2302DE27A38BD</SHA1>
+      <FileSize>127838</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7380145+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>front_gps_plate_side.SLDPRT</FileName>
+      <SHA1>C2DCB7B8510D39133215D7885D002AC4204C940E</SHA1>
+      <FileSize>82525</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.9095626+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front_Nuc_Isolation_Plate.SLDPRT</FileName>
+      <SHA1>C26877D62557B2970E4EDDAFE0C50A8D1E55623C</SHA1>
+      <FileSize>126443</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7402067+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Front_shell_Cover.STL</FileName>
+      <SHA1>5E91277422592C08BFE8D8ED1965E05AA720C4DA</SHA1>
+      <FileSize>303484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7421856+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Isolator_spacer.SLDPRT</FileName>
+      <SHA1>745E18F5CC8F42A3C77D5B45CD1CDBB4B34ACF43</SHA1>
+      <FileSize>75087</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7440262+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>john_fulmer.STL</FileName>
+      <SHA1>87F864810D135261C3BEC632313E1974817FA16D</SHA1>
+      <FileSize>86584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.9116685+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>NUC_isolation_mounting_plate.SLDPRT</FileName>
+      <SHA1>D0FA74B56082D927E277BA2ADC7F375FE3BB924F</SHA1>
+      <FileSize>130632</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.7575613+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>README.md</FileName>
+      <SHA1>61E0729766CD98F33EAFD3B63E18B7049A61B418</SHA1>
+      <FileSize>41</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8432793+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>rim.SLDPRT</FileName>
+      <SHA1>4317AB50E90241A37B771F6C8713F7155A9DAB04</SHA1>
+      <FileSize>1011793</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.9136742+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>tire.SLDPRT</FileName>
+      <SHA1>B2DD81F237982F48FC356D190EF7AFB47510388E</SHA1>
+      <FileSize>101571</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.9167194+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>wheel.SLDASM</FileName>
+      <SHA1>5329A0019CC000A3446A1415BA960588104AD5CE</SHA1>
+      <FileSize>806759</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.9255643+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Wifi_damp_riser.SLDPRT</FileName>
+      <SHA1>EC1BE12836B3519942DC1A2442E05B914A8E2113</SHA1>
+      <FileSize>94400</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8856612+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Wifi_damp_riser.STL</FileName>
+      <SHA1>E48B67E8E0AE824C75440AFADB596010F28D15E0</SHA1>
+      <FileSize>73184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-26T21:49:06.8875834+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

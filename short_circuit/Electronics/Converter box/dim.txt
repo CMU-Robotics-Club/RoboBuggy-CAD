@@ -1,0 +1,3 @@
+"box_width" = 7in
+"box_other_width" = 6in
+"box_height" = 2.25in
