@@ -1,0 +1,5 @@
+button head 1/4-20 1.75" : http://www.mcmaster.com/#91255a548/=14jyffx
+socket head 1/4-20 1.5" : http://www.mcmaster.com/#90044a123/=14f77du
+1/4" washer : http://www.mcmaster.com/#90107a029/=14jydx8
+flat head 10-32 .5" : http://www.mcmaster.com/#91253a003/=14iz7co
+possible shaft stock : http://www.mcmaster.com/#7767t371/=14f79gz
